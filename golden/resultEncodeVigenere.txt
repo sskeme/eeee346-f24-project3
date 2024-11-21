@@ -1,0 +1,3 @@
+Encoding message using a Vigenere Cipher encoder!
+Encoded Message is:
+FFKRIEESZGZE LVCMI
