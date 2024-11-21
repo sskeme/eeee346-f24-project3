@@ -1,5 +1,5 @@
-#ifndef VIGENERECYPHER_H
-#define VIGENERECYPHER_H
+#ifndef VIGENERECIPHER_H
+#define VIGENERECIPHER_H
 
 #include "Cipher.h"
 
@@ -9,11 +9,6 @@ private:
    * original key used in a Vigenere cipher
    */
   string key;
-  
-  /*  
-   * converted key from the original key
-   */
-  string convKey;
 
 public:
   /* 
@@ -21,13 +16,6 @@ public:
    * @param k - used to set key
    */
   VigenereCipher(string k); 
-
-  /*  
-   * convertKey: converts key to match the lenghth of msg
-   * and the length of key
-   * the result is stored in convKey
-   */
-  void convertKey(const string& msg, const string& key);
   
   /*  
    * encode(): performs Vigenere encoding of a message
