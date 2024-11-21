@@ -1,0 +1,4 @@
+RailFence
+3
+DECODE
+SNRPIGBEKR A
