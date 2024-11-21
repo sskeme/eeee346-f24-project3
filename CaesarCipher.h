@@ -15,7 +15,7 @@ private:
 
 public:
   /*  
-   * constructor
+   * constructor: initializes shift using the parameter and cipherName to "Caesar"
    * @param s - used to set shift
    */
   CaesarCipher(int s); 
