@@ -1,5 +1,5 @@
-#ifndef CAESARCYPHER_H
-#define CAESARCYPHER_H
+#ifndef CAESARCIPHER_H
+#define CAESARCIPHER_H
 
 #include "Cipher.h"
 
