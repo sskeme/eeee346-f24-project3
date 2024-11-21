@@ -17,7 +17,7 @@ private:
 
 public:
   /* 
-   * constructor
+   * constructor: initializes key using the parameter and cipherName to "Vigenere"
    * @param k - used to set key
    */
   VigenereCipher(string k); 
