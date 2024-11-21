@@ -1,5 +1,5 @@
-#ifndef CYPHER_H
-#define CYPHER_H
+#ifndef CIPHER_H
+#define CIPHER_H
 
 #include <string>
 
