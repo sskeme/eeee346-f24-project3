@@ -20,14 +20,14 @@ public:
    */
   CaesarCipher(int s); 
 
-  /** 
+  /*
    * encode(): performs Caesar encoding of a message
    * @param msg - string message to encode
    * @return true if encoding is successful else false
    */
   bool encode(string msg);
 
-  /** 
+  /*
    * decode(): performs Caesar decoding of message
    * @param msg - string message to decode
    * @return true if decoding is successful else false
