@@ -4,13 +4,6 @@
  * definition of the constructor
  */
 /*TODO: write your code*/
-  
-/*
- * definition of convertKey()
- */
-void VigenereCipher::convertKey(const string& msg, const string& key) {
-  /*TODO: write your code*/
-}
 
 /*
  * definition of encode()
