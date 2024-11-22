@@ -12,7 +12,7 @@ private:
 
 public:
   /*  
-   * constructor: initializes rail using the parameter and cipherName to "Rail Fence"
+   * constructor: initializes rail to the parameter and cipherName to "Rail Fence"
    * @param r - used to set rail
    */
   RailFenceCipher(int r); 
