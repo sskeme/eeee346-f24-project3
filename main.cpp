@@ -18,7 +18,7 @@ int main() {
   // result variable
   bool actionStatus;
 
-  // declare a Cipher-typed shared pointer named cipher, will point to an object of CaesarCipher, VigenereCipher, or RailFenceCipher
+  // declare a Cipher-typed shared pointer named cipher, which will point to an object of CaesarCipher, VigenereCipher, or RailFenceCipher
   /*TODO: write your code*/
 
   // request name for the cipher to use
